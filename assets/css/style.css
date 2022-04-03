@@ -63,6 +63,8 @@ p {
     background-position: center;
 }
 
+/* Content section */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,8 +80,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-/* Content section */
 
 .content-card {
     margin-bottom: 20px;
