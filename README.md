@@ -10,4 +10,9 @@ You can find the website [here](https://glowingmanagement.github.io/marketing-ag
 
 ## Screenshot
 
-![Full Website](./assets/images/screenshots/marketing-website-screenshot.png)
+Before Refactor
+![Full Website](./assets/images/screenshots/marketing-agency-screenshot-before.png)
+
+After Refactor
+![Full Website](./assets/images/screenshots/marketing-agency-screenshot-after.png)
+
